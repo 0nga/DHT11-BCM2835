@@ -7,6 +7,7 @@ First of all u need to install BCM2835.h library (guide @ https://github.com/0ng
 ### Connect the components
 Download the DHT11.c source file, connect all the components as shown in the figure below
 
-![Circuit](RPi-DHT11.png)
+![Circuit](DHT11-RPi4.png)
 
 You must build/run the program as root to use the system timers. 
+
